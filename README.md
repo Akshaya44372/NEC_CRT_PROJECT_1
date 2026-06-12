@@ -1,5 +1,7 @@
 # Name Gender Detection Using Machine Learning
 
+## Live Demo : https://agent-6a2b824a0ce3e19cf6189--namegenderdetection.netlify.app/
+
 ## 📌 Project Overview
 
 This project predicts the gender (Male or Female) based on a person's first name using Machine Learning techniques. The model is trained on a dataset containing names and their corresponding genders and can classify new names with high accuracy.
